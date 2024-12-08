@@ -9,7 +9,7 @@ This bot fetches the currently playing track on your Spotify account and posts i
 ## Setup
 1. Clone this repository.
 2. Add your environment variables (`SPOTIPY_CLIENT_ID`, `SPOTIPY_CLIENT_SECRET`, `DISCORD_TOKEN`) to Render or a `.env` file.
-3. Deploy on a platform like Render.
+3. Deploy.
 
 ## Requirements
 - Python 3.8+
